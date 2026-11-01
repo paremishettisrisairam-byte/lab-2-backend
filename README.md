@@ -1,8 +1,8 @@
 # Lab 2: SQLite database and CRUD routes
 
-**Name:** <your name> · **Registration number:** <reg no> · **Section:** <section>
+**Name:** <paremishetti srisairam> · **Registration number:** <252U1R9119> · **Section:** <GEN-A-111(2B)>
 
-**Live link:** <paste public URL here, or explain why it could not be deployed>
+**Live link:** <https://lab-2-backend-7org.onrender.com>
 
 ## How to run
 
